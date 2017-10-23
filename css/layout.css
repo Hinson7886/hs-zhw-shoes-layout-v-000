@@ -27,15 +27,15 @@
   float: left;
   width: 32%;
   margin-top: 1%;
-  
+
 }
 .col-2{
   float: left;
   width: 65%;
-  
+
 }
 .col-3{
-  
+
 }
 [class*="col-"]{
   margin-left: 1%;
@@ -52,5 +52,3 @@
   height: 0;
   line-height: 0;
 }
-
-
